@@ -189,6 +189,26 @@ body {
     background: url("./assets/hero.jpg") center center / cover no-repeat;
 }
 
+.menu-hero {
+    margin-bottom: 28px;
+    padding: 28px 16px;
+    background: #482900;
+    color: #fff;
+    text-align: center;
+}
+
+.menu-title {
+    margin: 0 0 8px;
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+
+.menu-hero p {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 14px;
+}
+
 .hero-copy {
     position: absolute;
     top: 29%;
@@ -558,4 +578,26 @@ body {
     .food-promos {
         height: 60vw;
     }
+}
+
+
+.menu-hero{
+    height: 400px;
+    background: url("./assets/d219a42a782949afede961ef1ff10e0c.jpg") center center / cover no-repeat;
+    background-size: cover;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 16px;
+}
+
+.menu-hero h1{
+    font-size: 64px;
+    color: #fff;
+    text-align: center;
+    padding-top: 150px;
+}
+.menu-hero p{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
 }
