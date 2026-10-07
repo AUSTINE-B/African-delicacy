@@ -1,0 +1,164 @@
+.get {
+    text-align: center;
+    line-height: 5px;
+}
+
+.contact {
+    font-family: arial;
+    font-weight: bold;
+    color: #482900;
+}
+
+.header {
+    font-family: arial;
+    font-weight: bold;
+    color: #482900;
+
+}
+body {
+    background-color: white;
+    width: 100vw;
+    height: 90vh;
+    margin: 0;
+    padding: 0;
+}
+ p {
+margin-top: 3px;
+font-weight: bold;
+font-size: 17px;
+ }
+ ul  {
+    list-style: none;
+    font-weight: bold;
+    font-size: 17px;
+    
+ }
+ .location {
+    border: 2px orangered;
+    width: 50vw;
+    height: 65vh;
+    background-color: white;
+    margin-top: 4em;
+    border-radius: 4px;
+    padding: 5px;
+    box-sizing: border-box;
+    overflow: hidden
+    
+    }
+    #loc {
+        margin-bottom: 0;
+    }
+     #con {
+        margin-bottom: 0;
+    }
+     #serve {
+        margin-bottom: 0;
+    }
+     #hours {
+        margin-bottom: 0;
+        line-height: 25px;
+    }
+
+ .services {
+    
+ }
+ .operating {
+    line-height: ;
+ }
+
+ #id {
+    margin-bottom: 0;
+ }
+ .ul li {
+    margin-top: 0;
+    margin-left: 15px;
+    margin-top: 0;
+ }
+ .list {
+    margin-top: 0;
+ }
+span {
+    color: #482900;
+}
+
+.box {
+    border:2px #482900;
+    padding: 14px;
+    width: 15vw;
+    border-radius: 3px;
+    border-color: #482900;
+}
+#email {
+    width: 32vw;
+}
+#text {
+    width: 35vw;
+    height: 15vh;
+    border-radius: 5px;
+    border-color: #482900;
+    border-style: none;
+}
+#details {
+    margin-bottom: 0;
+    margin-top: 2em;
+    font-family: arial;
+    font-weight: bold;
+    margin-right: 14px;
+    color: white;
+}
+button {
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    padding: 12px;
+    width: 35vw;
+    border-style: none;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 2em;
+}
+.send {
+    color: white;
+    font-family: arial;
+
+}
+
+.me {
+    width: 50vw;
+    height: 80vh;
+    border: 2px orange;
+    background-color: black;
+    padding: 8px;
+    margin-bottom: 5em;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-top: 2em;
+    border-radius: 5px;
+    
+    
+}
+form {
+    margin-top: 2em;
+}
+
+.main-div {
+    display: flex;
+    width: 90vw;
+    height: 90vh;
+    border: 2px;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 3em;
+    gap: 3em;
+    
+    
+}
+
+footer {
+    text-align: center;
+    color: #482900;
+    margin-top: 3em;
+    font-family: arial;
+    font-weight: bold;
+}
